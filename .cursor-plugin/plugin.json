@@ -1,0 +1,35 @@
+{
+  "name": "badland",
+  "displayName": "Badland Line",
+  "version": "0.1.0",
+  "description": "Text your Grok Bot from any phone. Badland Line gives your Bot a number: text it over SMS and it texts back, with pictures and invited guests. iMessage and group chats are next.",
+  "author": {
+    "name": "Badland",
+    "email": "support@badland.ai"
+  },
+  "publisher": "Badland",
+  "homepage": "https://badland.ai/line",
+  "repository": "https://github.com/Badland-AI/grokbot",
+  "license": "MIT",
+  "logo": "assets/logo.svg",
+  "keywords": [
+    "badland",
+    "badland line",
+    "badland.ai",
+    "text my bot",
+    "sms",
+    "texting",
+    "imessage",
+    "phone number"
+  ],
+  "category": "integrations",
+  "tags": [
+    "sms",
+    "texting",
+    "phone",
+    "messaging",
+    "mcp"
+  ],
+  "mcpServers": "./mcp.json",
+  "skills": "./skills/"
+}

@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "badland": {
+      "type": "http",
+      "url": "https://api.badland.ai/api/line/mcp",
+      "placement": "server"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "badland",
+  "version": "0.1.0",
+  "description": "Text your Grok Bot from any phone. Badland Line gives your Bot a number: text it over SMS and it texts back.",
+  "author": {
+    "name": "Badland",
+    "url": "https://badland.ai"
+  },
+  "homepage": "https://badland.ai/line",
+  "repository": "https://github.com/Badland-AI/grokbot",
+  "license": "MIT",
+  "keywords": [
+    "badland",
+    "badland line"
+  ],
+  "logo": "assets/logo.svg"
+}
