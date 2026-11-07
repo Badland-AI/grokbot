@@ -1,7 +1,7 @@
 {
   "name": "badland",
   "displayName": "Badland Line",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Text your Grok Bot from any phone. Badland Line gives your Bot a number: text it over SMS and it texts back, with pictures and invited guests. iMessage and group chats are next.",
   "author": {
     "name": "Badland",
